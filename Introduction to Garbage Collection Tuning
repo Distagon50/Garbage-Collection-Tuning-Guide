@@ -33,4 +33,4 @@ Java HotSpot垃圾收集器采用了各种技术来提高这些操作的效率:
 
 文档支持的操作系统
 该文档及其建议适用于所有JDK 9支持的系统配置，这些配置受到某些垃圾收集器在特定配置中的实际可用性的限制。参见
-Oracle JDK 9 and JRE 9 Certified System Configurations.
+Oracle JDK 9 and JRE 9 Certified System Configurations. 
